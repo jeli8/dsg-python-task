@@ -1,0 +1,5 @@
+S3_BUCKET_NAME = "<YOUR_BUCKET_NAME>"
+S3_ACCESS_KEY = "<YOUR_ACCESS_KEY>"
+S3_SECRET_KEY = "<YOUR_SECRET_KEY>"
+URL = "https://www.spotify.com"
+OUTPUT_FILE_NAME = "spotify"
